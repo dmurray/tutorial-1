@@ -1,0 +1,79 @@
+.container {
+	width: 950px;
+	margin: 0 auto;
+	position: relative;
+}
+
+/* Block-Styles */
+
+.block {
+	border: 1px solid #a3a09e;
+	background-color: #ffffff;
+	margin-bottom: 20px;
+	position: relative;
+}
+
+.block_inside {
+	display: block;
+	border: 1px solid #ffffff;
+	background: #ffffff url(../images/background_block_slice.jpg) repeat-x;
+	padding: 30px;
+	overflow: auto;
+}
+
+.image_block {
+	border: 1px solid #b5b5b5;
+	background-color: #d2d2d2;
+	padding: 5px;
+	float: left;
+}
+
+.image_block img {
+	border: 1px solid #b5b5b5;
+}
+
+.text_block {
+	float: left;
+	width: 430px;
+	margin-left: 30px;
+}
+
+.ribbon {
+	position: absolute;
+	top: -3px;
+	right: -3px;
+}
+
+.mini_portfolio_item {
+	border: 1px solid #a3a09e;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.mini_portfolio_item .block_inside {
+	background: none;
+	background-color: #e2dddc;
+	padding: 25px 30px 15px 30px;
+}
+
+.mini_portfolio_item .thumbnail {
+	float: left;
+	margin-right: 20px;
+	border: 1px solid #979390;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

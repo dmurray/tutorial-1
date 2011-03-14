@@ -1,0 +1,59 @@
+#header {
+	padding-top: 20px;
+}
+
+#logo h1, #logo small {
+	margin: 0px;
+	display: block;
+	text-indent: -9999px;
+}
+
+#logo {
+	background: url(../images/logo.png) no-repeat;
+	width: 194px;
+	height: 83px;
+}
+
+#main {
+	background: #c4c0be url(../images/background_light_slice.jpg) repeat-x;
+}
+
+#main .container {
+	background: url(../images/background_light.jpg) no-repeat;
+	min-height: 400px;
+}
+
+#block_content {
+	padding: 0px;
+}
+
+#footer {
+	background: url(../images/background_footer) repeat-x;
+	color: white;
+	padding: 40px;
+}
+
+#block_portfolio {
+	overflow: auto;
+	margin-bottom: 20px;
+}
+
+#portfolio_items {
+	width: 615px;
+	margin-right: 25px;
+	float: left;
+	padding-top: 3px;
+}
+
+#text_column {
+	float: right;
+	width: 310px;
+}
+
+#text_column h2, #text_title {
+	text-indent:-9999px;
+	background: url(../images/creatif.jpg) no-repeat;
+	width: 310px;
+	height: 129px;
+}
+
